@@ -29,14 +29,6 @@ Target Variable: "class" (Threat label).
 ✔ Feature selection – Use SelectKBest to choose the top 50 most relevant features.
 ✔ Standardization – Scale features using StandardScaler for better model performance.
 
-## 🚀 Model Training & Evaluation
-The following models were trained and evaluated:
-
-Model	Accuracy	Precision	Recall	F1-Score
-Random Forest	📈 High	✅ Good	✅ Good	✅ Good
-SVM	📉 Moderate	⚠️ Needs Tuning	⚠️ Needs Tuning	⚠️ Needs Tuning
-KNN (k=5)	📉 Moderate	⚠️ Needs Tuning	⚠️ Needs Tuning	⚠️ Needs Tuning
-Neural Network	📈 High	✅ Good	✅ Good	✅ Good
 ##🔹 Performance Metrics Used:
 
 Accuracy: Measures overall correctness.
