@@ -57,7 +57,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 2️⃣ Run the Python script:
 ```python
-python cybersecurity_classification.py
+python main.py
 ```
 3️⃣ Check the generated predictions:
 
